@@ -1,4 +1,4 @@
-/* prog2_6,¦³ÁY±Æªºµ{¦¡½X  */
+/* prog2_6, 有縮排的程式碼  */
 #include <stdio.h>   
 #include <stdlib.h>	
 
@@ -13,4 +13,5 @@ int main(void)
    system("pause");
    return 0;
 }    
+
 
