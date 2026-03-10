@@ -1,4 +1,4 @@
-/* prog4_13, ¿é¤J¦r¤¸ */
+/* prog4_13, è¼¸å…¥å­—å…ƒ */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
@@ -6,9 +6,10 @@ int main(void)
    char ch;
 
    printf("Input a character:");
-   scanf("%c",&ch);		/* ¥ÑÁä½L¿é¤J¦r¤¸¨Ã«ü©wµ¹ÅÜ¼Æch */
+   scanf("%c",&ch);		/* ç”±éµç›¤è¼¸å…¥å­—å…ƒä¸¦æŒ‡å®šçµ¦è®Šæ•¸ ch */
    printf("ch=%c, ascii code is %d\n",ch,ch);
    system("pause");
    return 0;
 }
+
 
