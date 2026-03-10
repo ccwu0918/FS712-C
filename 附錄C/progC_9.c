@@ -1,4 +1,4 @@
-/* progC_9, ¨Ï¥Î¦r¦ê¨ç¼Æ */
+/* progC_9, ä½¿ç”¨å­—ä¸²å‡½æ•¸*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -15,4 +15,5 @@ int main(void)
    system("pause");
    return 0;
 }
+
 
