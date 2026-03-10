@@ -1,13 +1,14 @@
-/* prog4_1, printf()¨ç¼Æªº¨Ï¥Î */
+/* prog4_1, printf()å‡½æ•¸çš„ä½¿ç”¨ */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
 {
    int a=2;
    int b=4;
-   printf("I have %d dogs and %d cats\n",a,b); /* ©I¥sprintf()¨ç¼Æ */
+   printf("I have %d dogs and %d cats\n",a,b); /* å‘¼å« printf() å‡½æ•¸ */
    
    system("pause");
    return 0;
 }
+
 
