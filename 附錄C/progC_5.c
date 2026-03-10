@@ -1,4 +1,4 @@
-/* progC_5, ¨Dµ{¦¡°õ¦æªº®É¶¡ */
+/* progC_5, æ±‚ç¨‹å¼åŸ·è¡Œçš„æ™‚é–“ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -20,4 +20,5 @@ int main(void)
    system("pause");
    return 0;
 }
+
 
