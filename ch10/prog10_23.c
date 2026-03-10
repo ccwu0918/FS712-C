@@ -1,4 +1,4 @@
-/* prog10_23, ¦L¥X°}¦Cªº¦ì§} */
+/* prog10_23, å°å‡ºé™£åˆ—çš„ä½å€ */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
@@ -10,11 +10,12 @@ int main(void)
    
    for(m=0;m<3;m++)
     for(n=0;n<4;n++)
-      printf("num[%d][%d]=%d, ¦ì§}=%p\n",m,n,*(*(num+m)+n),*(num+m)+n);
+      printf("num[%d][%d]=%d, Â¦Ã¬Â§}=%p\n",m,n,*(*(num+m)+n),*(num+m)+n);
    
    printf("**num=%d\n",**num);
    
    system("pause");
    return 0;
 }
+
 
