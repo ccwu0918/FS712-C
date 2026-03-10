@@ -1,4 +1,4 @@
-/* prog2_6,���Y�ƪ��{���X  */
+/* prog2_6,¦³ÁY±Æªºµ{¦¡½X  */
 #include <stdio.h>   
 #include <stdlib.h>	
 
