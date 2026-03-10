@@ -1,4 +1,4 @@
-/* progC_12, ±N¦r¦êÂà´«¬°¾ã¼Æ */
+/* progC_12, å°‡å­—ä¸²è½‰ç‚ºæ•´æ•¸ */
 #include <stdio.h>
 #include <stdlib.h>
 #define POW atoi(a)*atoi(a)
@@ -12,4 +12,5 @@ int main(void)
    system("pause");
    return 0;
 }
+
 
