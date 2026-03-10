@@ -1,4 +1,4 @@
-/* progC_4, ¨Dµ{¦¡°õ¦æªº®É¶¡ */
+/* progC_4, æ±‚ç¨‹å¼åŸ·è¡Œçš„æ™‚é–“ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -18,4 +18,5 @@ int main(void)
    system("pause");
    return 0;
 }
+
 
