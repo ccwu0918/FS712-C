@@ -1,4 +1,4 @@
-/* prog 8_21,¨Ï¥Î#define */
+/* prog 8_21, ä½¿ç”¨#define */
 #include <stdio.h>
 #include <stdlib.h>
 #define WORD "Think of all the things \
@@ -10,4 +10,5 @@ int main(void)
    system("pause");
    return 0;
 }
+
 
