@@ -9,7 +9,7 @@ int main(void)
    printf("cos(PI/3)=%6.4f\n",cos(PI/3.0));
    printf("tan(PI/4)=%6.4f\n",tan(PI/4.0));
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

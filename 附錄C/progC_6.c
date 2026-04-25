@@ -11,7 +11,7 @@ int main(void)
    printf("second string=%s\n",source);
    strcat(dest,source);
    printf("New string:%s\n",dest);
-   system("pause");
+   // system("pause");
    return 0;
 }
 

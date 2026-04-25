@@ -4,7 +4,7 @@
 int main(void)
 {
    system("dir c:\\prog");
-   system("pause");
+   // system("pause");
    return 0;
 }
 

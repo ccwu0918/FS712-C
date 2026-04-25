@@ -17,7 +17,7 @@
     
     printf("%s\n",str);
     
-    system("pause");
+    // system("pause");
     return 0;
  }
 

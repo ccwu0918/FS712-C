@@ -17,7 +17,7 @@ int main(void)
    t_used=(float)(end-start)/CLK_TCK;
    printf("time= %.3f seconds.\n",t_used);
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

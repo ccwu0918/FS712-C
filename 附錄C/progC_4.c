@@ -15,7 +15,7 @@ int main(void)
    end=time(NULL);
    printf("time= %.2f second.\n",difftime(end,start));
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

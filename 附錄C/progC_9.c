@@ -12,7 +12,7 @@ int main(void)
    printf("String length: %d\n",strlen(str));
    printf("Convert to lower case: %s\n",strlwr(str));
    printf("String reversed: %s\n",strrev(str));
-   system("pause");
+   // system("pause");
    return 0;
 }
 

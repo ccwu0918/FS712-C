@@ -9,7 +9,7 @@ int main(void)
    printf("Input a number:");
    gets(a);
    printf("%d*%d=%d\n",atoi(a),atoi(a),POW);
-   system("pause");
+   // system("pause");
    return 0;
 }
 

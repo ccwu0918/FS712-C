@@ -10,7 +10,7 @@ int main(void)
    gets(source);
    strcpy(dest,source);
    printf("destination string:%s\n",dest);
-   system("pause");
+   // system("pause");
    return 0;
 }
 

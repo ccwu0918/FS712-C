@@ -5,7 +5,7 @@ int main(void)
 {
    printf("Hello, C!\n");		/* 列印 Hello C! */
    printf("Hello, World!\n"); 	/* 列印 Hello World! */
-   system("pause");
+   // system("pause");
    return 0;
 } 
 
