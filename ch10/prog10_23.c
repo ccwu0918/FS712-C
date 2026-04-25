@@ -14,7 +14,7 @@ int main(void)
    
    printf("**num=%d\n",**num);
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

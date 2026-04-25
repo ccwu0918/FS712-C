@@ -15,7 +15,7 @@ int main(void)
    sum=add(a,b);			
    printf("%d+%d=%d\n",a,b,sum); 
 
-   system("pause");
+   // system("pause");
    return 0;
 }
 

@@ -7,7 +7,7 @@ int main(void)
 {
    printf(WORD);
 
-   system("pause");
+   // system("pause");
    return 0;
 }
 

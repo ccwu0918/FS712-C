@@ -10,7 +10,7 @@ int main(void)
    } student;
    printf("sizeof(student)=%d\n",sizeof(student));
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

@@ -1,16 +1,16 @@
-/* prog10_8, ¶Ç»¼«ü¼ĞªºÀ³¥Î */
+/* prog10_8, å‚³éæŒ‡æ¨™çš„æ‡‰ç”¨ */
 #include <stdio.h>
 #include <stdlib.h>
-void add10(int *);		/* add10()¨ç¼Æªº­ì«¬ */
+void add10(int *);		/* add10()å‡½æ•¸çš„åŸå‹ */
 int main(void)
 {
    int a=5;
    
-   printf("©I¥sadd10()¤§«e,a=%d\n",a);   
-   add10(&a);			/* ©I¥sadd10()¨ç¼Æ */
-   printf("©I¥sadd10()¤§«á,a=%d\n",a);
+   printf("å‘¼å«add10()ä¹‹å‰,a=%d\n",a);   
+   add10(&a);			/* å‘¼å«add10()å‡½æ•¸ */
+   printf("å‘¼å«add10()ä¹‹å¾Œ,a=%d\n",a);
   
-   system("pause");
+   // system("pause");
    return 0;
 }
 

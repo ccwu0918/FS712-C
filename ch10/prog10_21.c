@@ -9,7 +9,7 @@ int main(void)
    printf("n=%d,&n=%p,*p=%d,p=%p,&p=%p\n",n,&n,*p,p,&p);
    printf("**pp=%d,*pp=%p,pp=%p,&pp=%p\n",**pp,*pp,pp,&pp);
 
-   system("pause");
+   // system("pause");
    return 0;
 }
 
