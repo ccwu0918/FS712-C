@@ -11,7 +11,7 @@ int main(void)
    printf("(ch/s)-(d/f)-(s+i)=%f\n",(ch/s)-(d/f)-(s+i));  
    printf("size=%d\n",sizeof((ch/s)-(d/f)-(s+i)));
 
-   system("pause");   
+   // system("pause");   
    return 0;
 }
 

@@ -9,7 +9,7 @@ for(i=1;i<=2;i++)
 printf("Cats are running, "); 
 printf("dogs are chasing.\n");
 } 
-system("pause");
+// system("pause");
 return 0;
 }    
 

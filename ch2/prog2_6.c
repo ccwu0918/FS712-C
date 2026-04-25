@@ -10,7 +10,7 @@ int main(void)
       printf("Cats are running, "); 
       printf("dogs are chasing.\n");
    } 
-   system("pause");
+   // system("pause");
    return 0;
 }    
 

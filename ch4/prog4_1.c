@@ -7,7 +7,7 @@ int main(void)
    int b=4;
    printf("I have %d dogs and %d cats\n",a,b); /* 呼叫 printf() 函數 */
    
-   system("pause");
+   // system("pause");
    return 0;
 }
 

@@ -8,7 +8,7 @@ int main(void)
    printf("Input a character:");
    scanf("%c",&ch);		/* 由鍵盤輸入字元並指定給變數 ch */
    printf("ch=%c, ascii code is %d\n",ch,ch);
-   system("pause");
+   // system("pause");
    return 0;
 }
 

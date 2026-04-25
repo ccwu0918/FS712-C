@@ -7,7 +7,7 @@ int main(void)
    for(i=1;i<=10000;i++);		/* 空迴圈 */
       printf("i=%d\n",i);
 
-   system("pause");
+   // system("pause");
    return 0;
 }
 

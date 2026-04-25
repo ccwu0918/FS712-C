@@ -5,7 +5,7 @@ int main(void)
 {
    printf("Have a nice day!!\n");	/* 印出字串內容 */
 
-   system("pause");
+   // system("pause");
    return 0;
 }
 
